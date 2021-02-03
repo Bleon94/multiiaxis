@@ -1,0 +1,15 @@
+{
+    "token": "ODA1MTM5MDU3Mzk0MTg4MzQ5.YBWiLg.HWwhNvTQfiU6wEBDdhshJzKkfz4",
+    "prefix": "+",
+    "greeting": {
+        "channel": "774594985223913486",
+        "role": "774612352159055892"
+        
+    },
+    "serverStats": {
+        "humans": "791246264502583296",
+        "bots": "791246224707682314",
+        "total": "791246427450769419"
+    },
+    "logs": "781134808016617482"
+}
